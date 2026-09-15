@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite",
+  "description": "An original student food delivery platform featuring BudgetBites, QuickPick, GroupOrder, ClearBill transparent pricing, OrderTrack, and MealPass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
